@@ -19,10 +19,10 @@
   <img src="assert/sqlalchemy.png" width="130" height="60">
   <img src="assert/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png" width="130" height="60">
   <img src="assert/f0444421e294b9c85f50c2164f2bd27f.jpg" width="130" height="60">
-  <img src="assert/NGINX-logo-rgb-large.png" width="130" height="50>
-  <h3>
+  <img src="assert/NGINX-logo-rgb-large.png" width="130" height="50">
+  <h1>
     Как со мной связаться?
-  </h3>
+  </h1>
     <a href="https://t.me/IprojektOnAWP">
       <img src="./assert/56_main.png" width="90" height="50">
     </a>
