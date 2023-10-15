@@ -30,14 +30,3 @@
       <img src="./assert/756778452419973.jpg" width="90" height="50">
     </a>
 </div>
-=======
-    Првиет! Я backend разработчик из дождливого города - Санкт-Петербург
-  </h1>
-  <h3>
-    Как со мной связаться?
-    <a>
-      <img scr='https://kk7school.ru/wp-content/uploads/2022/03/56_main.png'>
-    </a>
-  </h3>
-</div>
->>>>>>> 5cc45189b688050bb3be477807b4ddb628833ceb
