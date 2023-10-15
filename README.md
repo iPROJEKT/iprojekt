@@ -10,16 +10,16 @@
     Как я уже написал, меня зовут Сергей. Мне 17 лет и я хочу развиваться в web разработке, backend в том числе.
   </p>
   <h3>
-    - а что у тебя по стеку?
+    Tech Stack
   </h3>
-  <h3>
-    - классика жанра
-  </h3>
-  <img src="assert/1592990176.jpg" width="130" height="50">
+  <img src="assert/879-png-3.png" width="120" height="50">
   <img src="assert/logo-teal.png" width="130" height="50">
   <img src="assert/1kaatTL.jpg" width="130" height="60">
   <img src="assert/postgresql-logo11.png" width="130" height="60">
   <img src="assert/sqlalchemy.png" width="130" height="60">
+  <img src="assert/Docker-Logo_Horizontel_279x131.b8a5c41e56b77706656d61080f6a0217a3ba356d.png" width="130" height="60">
+  <img src="assert/f0444421e294b9c85f50c2164f2bd27f.jpg" width="130" height="60">
+  <img src="assert/NGINX-logo-rgb-large.png" width="130" height="50>
   <h3>
     Как со мной связаться?
   </h3>
@@ -30,14 +30,3 @@
       <img src="./assert/756778452419973.jpg" width="90" height="50">
     </a>
 </div>
-=======
-    Првиет! Я backend разработчик из дождливого города - Санкт-Петербург
-  </h1>
-  <h3>
-    Как со мной связаться?
-    <a>
-      <img scr='https://kk7school.ru/wp-content/uploads/2022/03/56_main.png'>
-    </a>
-  </h3>
-</div>
->>>>>>> 5cc45189b688050bb3be477807b4ddb628833ceb
